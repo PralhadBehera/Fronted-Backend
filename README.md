@@ -1,4 +1,6 @@
 # Angular 15 Node.js MongoDB example: CRUD Application
+This is forked project By for Devops purpose 
+
 
 In this tutorial, I will show you how to build a full-stack (MEAN stack) Angular 15 + Node.js + MongoDB example with a CRUD Application. The back-end server uses Node.js + Express for REST APIs and connects with MongoDB database, front-end side is an Angular App with HTTPClient.
 
@@ -44,4 +46,5 @@ Run `node server.js`
 cd angular-15-client
 npm install
 ```
+
 Run `ng serve --port 8081`. Navigate to `http://localhost:8081/`.
